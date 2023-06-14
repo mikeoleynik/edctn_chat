@@ -1,0 +1,12 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+input[type=text] {
+  width: 80%;
+  padding: 12px 20px;
+  margin: 8px 8px;
+  box-sizing: border-box;
+  background-color: #e0f5de;
+  border-color: #377e30;
+}
